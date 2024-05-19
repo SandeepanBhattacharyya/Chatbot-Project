@@ -60,7 +60,6 @@ vector_store=FAISS.from_texts(chunks, embeddings) # it will take in the chunks a
 # - created/initialized the FAISS vector store
 # - stores the chunks and embeddings
 '''
-#------------------------------------------------------------------------
 '''
 We will proceed to Finetuning sectiom
 1. get user's question
